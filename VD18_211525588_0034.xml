@@ -1,4 +1,6 @@
-<teiHeader>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
   <fileDesc>
     <titleStmt>
       <title type="main">Briefwechsel zwischen einem Vater und seinem Sohn auf der Akademie : Allen rechtschaffenen Vätern, und ihren studierenden Söhnen gewidmet</title>
@@ -113,3 +115,9 @@
     </textClass>
   </profileDesc>
 </teiHeader>
+<text>
+        <body>
+            <p>Hallo Welt!</p>
+        </body>
+    </text>
+</TEI>
