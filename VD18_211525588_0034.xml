@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <teiHeader>
   <fileDesc>
     <titleStmt>
@@ -21,10 +20,10 @@
     </titleStmt>
     <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
     <extent>
-      <measure type="images"></measure>
-      <measure type="tokens"></measure>
-      <measure type="types"></measure>
-      <measure type="characters"></measure>
+      <measure type="images"/>
+      <measure type="tokens"/>
+      <measure type="types"/>
+      <measure type="characters"/>
     </extent>
     <publicationStmt>
       <publisher xml:id="DTACorpusPublisher">
@@ -46,7 +45,7 @@
       </availability>
     </publicationStmt>
     <sourceDesc>
-      <bibl type="M"></bibl>
+      <bibl type="M"/>
       <biblFull>
         <titleStmt>
         <title level="m" type="main">Briefwechsel zwischen einem Vater und seinem Sohn auf der Akademie : Allen rechtschaffenen Vätern, und ihren studierenden Söhnen gewidmet</title>
@@ -85,7 +84,7 @@
       </msDesc>
     </sourceDesc>
   </fileDesc>
-  <encodingDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
     <editorialDecl>
       <p>
           Bogensignaturen: keine Angabe;
@@ -99,7 +98,7 @@
           Kustoden: keine Angabe;
           langes s (ſ): keine Angabe;
           Normalisierungen: keine Angabe;
-          rundes r (&amp;#xa75b;): keine Angabe;
+          rundes r (ꝛ): keine Angabe;
           Seitenumbrüche markiert: keine Angabe;
           Silbentrennung: keine Angabe;
           u/v bzw. U/V: keine Angabe;
@@ -117,7 +116,7 @@
 </teiHeader>
 <text>
         <body>
-            <p>Hallo Welt!</p>
+            <p>21Gott, so wird es dir ferner wohl gehen.Dein getreuer VaterJoh. Georg Stark.Superintend.Dritter Brief.Heinrich Stark an seinen Vater.M. den 7 Febr. 1773.Bester, theureſter Vater!Für Ihren so lehrreichen, vortreflichen Briefsage ich Ihnen den allerherzlichstenDank. Ich hab ihn wohl schon fünfmaldurchgelesen, habe, wie ich das mit Gottbezeugen kann, alles darinn angeführte in Absicht auf die Wahl meiner künftigen Lebensart wohl und ernstlich erwogen, habe michnach meinen Neigungen und Fähigkeiten sorgfältig geprüft, in welchem Stand ich amglücklichsten leben, und der Welt dereinst ammeisten nützen könnte? Und da trieb michalles, wie von jeher, zur Erwählung desgeistlichen Standes hin. Sie wissen, meinB 3bester,</p>
         </body>
     </text>
 </TEI>
