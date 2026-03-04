@@ -321,7 +321,7 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+      </rdf:RDF></xenoData><encodingDesc>
             <editorialDecl>
                 <p>
                     Bogensignaturen: keine Angabe;
@@ -353,7 +353,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00020717/VD18_211525588_0034.tif"/>
+            <pb facs="https://github.com/Swagunke/Stuttgart2026/blob/main/Screenshot%202026-03-04%20154446.jpg"/>
             <p>
                 <lb/>21<lb/>Gott, so wird es dir ferner wohl gehen.<lb/>Dein getreuer Vater<lb/><persName key="Stark, Johann Christian" ref="https://d-nb.info/gnd/1057846317" cert="low">Joh. Georg Stark</persName>.<lb/>Superintend.<lb/>Dritter Brief.<lb/>Heinrich Stark an seinen Vater.<lb/>M. den <date when="1773-02-07" cert="high">7 Febr. 1773</date>.<lb/>Bester, theureſter Vater!<lb/>Für Ihren so lehrreichen, vortreflichen Brief<lb/>sage ich Ihnen den allerherzlichsten<lb/>Dank. Ich hab ihn wohl schon fünfmal<lb/>durchgelesen, habe, wie ich das mit Gott<lb/>bezeugen kann, alles darinn angeführte in Ab<lb/>sicht auf die Wahl meiner künftigen Lebens<lb/>art wohl und ernstlich erwogen, habe mich<lb/>nach meinen Neigungen und Fähigkeiten sorg<lb/>fältig geprüft, in welchem Stand ich am<lb/>glücklichsten leben, und der Welt dereinst am<lb/>meisten nützen könnte? Und da trieb mich<lb/>alles, wie von jeher, zur Erwählung des<lb/>geistlichen Standes<note>Der Erste Stand umfasste die Gruppe aller Geistlichen, das heißt Angehörige der hohen Geistlichkeit wie auch des niederen Klerus (Lehrstand).</note> hin. Sie wissen, mein<lb/>B 3<lb/>bester,</p>
         </body>
